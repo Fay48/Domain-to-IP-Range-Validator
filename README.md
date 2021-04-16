@@ -1,4 +1,4 @@
 # Domain-to-IP-Range-Validator
 Domain to IP Range + Validator
 
-<script id="asciicast-T0fFdcN8gCQlDfLMmianJvI1n" src="https://asciinema.org/a/T0fFdcN8gCQlDfLMmianJvI1n.js" async></script>
+[![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/14)
